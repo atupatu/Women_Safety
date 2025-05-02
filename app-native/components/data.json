@@ -1,0 +1,46 @@
+{
+    "faqs": [
+      {
+        "id": 1,
+        "question": "How to download the app?",
+        "answer": "The I'M SAFE Women Safety App can be downloaded from the App Store for iOS devices and Google Play Store for Android devices. Simply search for 'I'M SAFE Women Safety' in your device's app store and tap the download/install button.",
+        "modified": "Thu, 2 Feb, 2023 at 4:22 AM"
+      },
+      {
+        "id": 2,
+        "question": "How to sign up and register?",
+        "answer": "To sign up and register on the I'M SAFE Women Safety App, open the app after installation and tap on 'Create Account' or 'Sign Up'. Enter your email address or phone number, create a secure password, and follow the on-screen instructions to complete your registration.",
+        "modified": "Mon, 30 Jan, 2023 at 9:04 AM"
+      },
+      {
+        "id": 3,
+        "question": "What permissions should I allow to use the app?",
+        "answer": "For the I'M SAFE Women Safety App to function properly, you should allow the following permissions: Location (for emergency tracking), Contacts (to add emergency contacts), Camera (for photo verification), Microphone (for voice recording during emergencies), and SMS/Call (for sending emergency alerts).",
+        "modified": "Mon, 30 Jan, 2023 at 9:04 AM"
+      },
+      {
+        "id": 4,
+        "question": "Should I enter my phone number?",
+        "answer": "Yes, it is recommended to enter your phone number during registration for better security and verification. Your phone number helps in account recovery and enables important features like SMS alerts to emergency contacts. Your privacy is protected according to our privacy policy.",
+        "modified": "Mon, 30 Jan, 2023 at 9:04 AM"
+      },
+      {
+        "id": 5,
+        "question": "How to enter the verification code and what to do if I don't receive the code?",
+        "answer": "After entering your phone number, you'll receive a verification code via SMS. Enter this code in the app to verify your account. If you don't receive the code within 2 minutes, tap on 'Resend Code'. If you still don't receive it, check your network connection, verify your phone number is correct, and ensure your device can receive SMS. You can also contact our support team for assistance.",
+        "modified": "Mon, 30 Jan, 2023 at 9:05 AM"
+      },
+      {
+        "id": 6,
+        "question": "What details are necessary to create the profile?",
+        "answer": "To create your profile on the I'M SAFE Women Safety App, you need to provide: Full name, Age/Date of birth, Profile photo (optional but recommended), Emergency contacts (at least one), Your home address, and Health information (optional, like blood group or allergies) that might be useful in emergencies.",
+        "modified": "Mon, 4 Mar, 2024 at 3:24 AM"
+      },
+      {
+        "id": 7,
+        "question": "How can I add friends?",
+        "answer": "To add friends on the I'M SAFE Women Safety App, go to the 'Friends' or 'Contacts' section in the app menu. Tap on 'Add Friend' and you can add friends either by searching their username/email, scanning their QR code, or inviting them via SMS or email. Once they accept your request, they'll be added to your friends list.",
+        "modified": "Mon, 30 Jan, 2023 at 9:06 AM"
+      }
+    ]
+  }
